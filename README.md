@@ -1,7 +1,7 @@
 # CIS4930 Data Processing & Storage
 ## Setup Instructions
 
-If main.class is not present, create the file by running
+If main.class is not updated, update the file by running
 
 ```javac main.java```
 
